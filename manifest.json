@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Vinyl Record Overlay",
+    "description": "Adds a spinning vinyl overlay that dynamically changes color based on album art. Requires the StarryNight theme from the Spicetify Marketplace.",
+    "preview": "preview.png",
+    "main": "vinylRecord.js",
+    "readme": "README.md",
+    "branch": "main",
+    "authors": [
+        { "name": "HackedApp", "url": "https://github.com/user/HackedApp" }
+    ],
+    "tags": ["vinyl", "aesthetic", "music", "StarryNight"]
+  }
+]
